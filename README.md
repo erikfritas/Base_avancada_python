@@ -57,13 +57,13 @@
          
 <h3>3º Passo "jogar":</h3>
     <li>
-        <p>
-        o controle padrão que eu coloquei foi:
-           w -> cima
-           s -> baixo
-           a -> esquerda
-           d -> direita
-        </p>
+        <ul>
+        <h4>o controle padrão que eu coloquei foi:</h4>
+            <li>w -> cima</li>
+            <li>s -> baixo</li>
+            <li>a -> esquerda</li>
+            <li>d -> direita</li>
+        </ul>
     </li>
        
 <h3>4º E último passo "programar":</h3>
