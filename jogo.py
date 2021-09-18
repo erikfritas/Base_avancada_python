@@ -1,3 +1,4 @@
+# somente com python3 e com libs da própria linguagem, nenhuma lib de terceiros
 import os
 import keyboard as kb
 
